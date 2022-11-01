@@ -1,0 +1,1 @@
+from bot.webapp.blueprints.reddit_feed_importer import feed_importer as feed_importer_blueprint

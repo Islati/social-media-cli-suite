@@ -1,0 +1,4 @@
+bot/webapp/static/node_modules/
+.idea/
+**/__pycache__/
+.DS_Store
